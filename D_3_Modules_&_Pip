@@ -1,0 +1,10 @@
+Modules: save time & efforts
+Its like code library written by other and we can use those in our codes.
+
+ - Build-In Modules: ready to import & use, ships 
+  https://docs.python.org/3/py-modindex.html
+  
+ - External Modules: Imported from a third party file or can be installed by a package manager like pip or conda
+ Ex:
+ pip install pandas
+ import pandas
